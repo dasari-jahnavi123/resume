@@ -1,1 +1,50 @@
-A resume is a succinct document outlining your professional qualifications, designed to secure an interview. Typically, it includes a summary of your skills and experience, a chronological list of your employment history, and your educational background. In some cases, it may also feature relevant projects or volunteer work. The goal of a resume is to highlight your suitability for a specific role by showcasing your achievements and capabilities.
+# [Your Name]
+
+[Your Contact Information: Email | LinkedIn | GitHub]
+
+## Summary
+
+[A brief summary of your skills and experience]
+
+## Skills
+
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+
+## Experience
+
+### [Job Title] | [Company Name] | [Dates of Employment]
+
+[Brief description of your role and responsibilities]
+
+- [Responsibility 1]
+- [Responsibility 2]
+
+### [Previous Job Title] | [Previous Company Name] | [Dates of Employment]
+
+[Brief description of your role and responsibilities]
+
+- [Responsibility 1]
+- [Responsibility 2]
+
+
+## Education
+
+### [Degree Name] | [University Name] | [Graduation Year]
+
+[Relevant coursework or achievements]
+
+## Projects
+
+### [Project Name] | [GitHub Link (if applicable)]
+
+[Brief description of the project and your role]
+
+- [Key achievement or technology used]
+
+### [Another Project Name] | [GitHub Link (if applicable)]
+
+[Brief description of the project and your role]
+
+- [Key achievement or technology used]
